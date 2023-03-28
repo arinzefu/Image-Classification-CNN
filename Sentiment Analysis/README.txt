@@ -1,1 +1,0 @@
-	I used pytorch framework on this project and the AutoTokenizer for the BERT model to perform sentiment analysis, open to your contributions.
