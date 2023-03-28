@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Movie recommendation system/.idea/Movie recommendation system.iml" filepath="$PROJECT_DIR$/../Movie recommendation system/.idea/Movie recommendation system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Showcasing-my-ML-works.iml" filepath="$PROJECT_DIR$/.idea/Showcasing-my-ML-works.iml" />
+    </modules>
+  </component>
+</project>

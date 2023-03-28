@@ -1,0 +1,2 @@
+I got the dataset from https://datahub.io/core/oil-prices and I would like to appreciate them for providing it.
+I used tensorflow with lstm model and my predicted was very close to the actual dataset. the model is free to be deployed where ever needed.

@@ -1,0 +1,2 @@
+I got the dataset from google images and I ran it to problems with saving the model, I got a good accuracy for the model
+ it was inspired by the image classify done by Nicholas Renotte. It has 4 classes and uses Tensorflow.

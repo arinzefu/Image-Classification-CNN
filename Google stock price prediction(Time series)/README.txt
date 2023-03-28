@@ -1,0 +1,3 @@
+I got this dataset from kaggle and I used the pytorch framework. My model is a LSTM(long short-term memory networks) model and I joined the two datasets cause I prefer to split it myself.
+My parameters can be adjusted and it is recommended you do to achieve a better result, I fine-tuned it a bit but since it is just a demonstration i wasnt aiming for perfection.
+The dataset stops at 2017 and it shows the graph of the predicted 1200 days. 
